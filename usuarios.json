@@ -1,0 +1,12 @@
+{
+    "lista_de_usuarios": [
+        {
+            "usuario": "adrian",
+            "pwd": "$2b$12$18SIlnakmzqDYKD8yQ3Kb.iJicRqj7yT6ZArrOIzW4Ze8fkOSTe8K"
+        },
+        {
+            "usuario": "elias",
+            "pwd": "$2b$12$ymqt4kLOF84VzjOm5GkMM.GBDgRlWBVOnfMwjTrJu.dU/2mHY1S1C"
+        }
+    ]
+}
